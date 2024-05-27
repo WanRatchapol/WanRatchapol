@@ -1,10 +1,6 @@
-# Hi there 👋, Ratchapol Kunthong
-
-### Intern engineer
+# Hi , My name is Ratchapol Kunthong
 
 I'm studying computer engineering and digital in Chulalongkorn university.
-
----
 
 ### Languages
 
@@ -27,4 +23,4 @@ I'm studying computer engineering and digital in Chulalongkorn university.
 
 #
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />](https://github.com/WanRatchapol)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WanRatchapol)
