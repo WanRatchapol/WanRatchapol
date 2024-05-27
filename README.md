@@ -1,6 +1,6 @@
 # Hi there 👋, Ratchapol Kunthong
-## Intern engineer
 
+### Intern engineer
 I'm studying computer engineering and digital in Chulalongkorn university.
 
 ### Languages
@@ -11,6 +11,7 @@ I'm studying computer engineering and digital in Chulalongkorn university.
 <img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <br />
+<br />
 
 ### Tools
 
@@ -18,9 +19,9 @@ I'm studying computer engineering and digital in Chulalongkorn university.
 <img align="left" alt="Posgresql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="VScode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br />
 
 #
 
-[<i class="devicon-github-original"></i>](https://github.com/WanRatchapol)  
+[<i class="devicon-github-original" />](https://github.com/WanRatchapol)  
