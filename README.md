@@ -1,5 +1,5 @@
 # Hi there 👋, Ratchapol Kunthong
-Intern engineer
+## Intern engineer
 
 I'm studying computer engineering and digital in Chulalongkorn university.
 
@@ -23,4 +23,4 @@ I'm studying computer engineering and digital in Chulalongkorn university.
 
 #
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WanRatchapol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ratchapol Kunthong )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wan_ratchapol/)  
+[<i class="devicon-github-original"></i>](https://github.com/WanRatchapol)  
