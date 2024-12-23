@@ -1,6 +1,6 @@
 # Hi , My name is Wan
 
-I'm studying computer engineering and digital in Chulalongkorn university.
+I'm studying Engineering Program in Computer Engineering and Digital Technology in Chulalongkorn university.
 
 ### Languages
 
